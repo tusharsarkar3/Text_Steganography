@@ -22,9 +22,7 @@ cover message related with the original secret message.
 
 ## Features
 
-- Better performance, training stability and interpretability for tabular data.
-- Easy to implement with rapid prototyping capabilities
-- Minimum Code requirements for creating any neural network with or without boosting
+- 
 ---
 
 ### Example for using
@@ -36,9 +34,6 @@ cover message related with the original secret message.
 ![img](screenshots/results_graph.png)
 ---
 
-### Reference
-
----
  #### Features to be added :
 - Metrics for different requirements
 - Addition of some other types of layers
