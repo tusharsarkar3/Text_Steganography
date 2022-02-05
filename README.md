@@ -30,12 +30,15 @@ cover message related with the original secret message.
 ---
 ### Output images :
 
-![img](screenshots/Results_metrics.png)  
-![img](screenshots/results_graph.png)
+### - Encoding
+![img](images/encode.png)
+![img](images/res1.png)
+
+### - Decoding
+![img](images/decode.png)
 ---
 
  #### Features to be added :
-- Metrics for different requirements
-- Addition of some other types of layers
+- 
 
 ---
