@@ -20,9 +20,6 @@ in the alphabet. The change is so subtle that someone who is not specifically lo
 Text steganography is a mechanism of hiding secret text message inside another text as a covering message or generating a
 cover message related with the original secret message. 
 
-## Features
-
-- 
 ---
 
 ### Output images :
@@ -33,9 +30,4 @@ cover message related with the original secret message.
 
 ### - Decoding
 ![img](images/decode.png)
----
-
- #### Features to be added :
-- 
-
 ---
