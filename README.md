@@ -25,9 +25,6 @@ cover message related with the original secret message.
 - 
 ---
 
-### Example for using
-
----
 ### Output images :
 
 ### - Encoding
