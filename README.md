@@ -24,7 +24,7 @@ cover message related with the original secret message.
 ### Original Image:
 
 ### Output images :
-![img](images/orig.PNG)
+![img](images/orig.png)
 
 ### - Encoding
 ![img](images/encode.png)
