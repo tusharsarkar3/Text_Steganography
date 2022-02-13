@@ -21,8 +21,10 @@ Text steganography is a mechanism of hiding secret text message inside another t
 cover message related with the original secret message. 
 
 ---
+### Original Image:
 
 ### Output images :
+![img](images/orig.png)
 
 ### - Encoding
 ![img](images/encode.png)
